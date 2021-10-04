@@ -1,0 +1,23 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://translator/web/ws/schema"
+           elementFormDefault="qualified">
+
+    <xsd:element name="TranslationRequest">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="langFrom" type="xsd:string"/>
+                <xsd:element name="langTo" type="xsd:string"/>
+                <xsd:element name="text" type="xsd:string"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="TranslationResponse">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="translation" type="xsd:string"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>
