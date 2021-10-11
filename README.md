@@ -27,4 +27,4 @@ Some ideas for obtaining a :gift: if you are the first that:
 User name | NIA | CI | Solution |Score
 ----------|-----|----------|-----|----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml) | [instructions](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/wiki)
-your name | your nia | your CI status | your solution
+Óscar Pueyo | 780378 | [![Build Status](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml) | [solution](https://github.com/iksopo/lab2-rpc-over-http/blob/work/description.md)
