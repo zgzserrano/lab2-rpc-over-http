@@ -4,9 +4,9 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc
 
 ## Primary goal
 
-Discover how to run the `server` and the `client`. 
-Note that the `server` requires code derived from `translator.xsd`, 
-and the `client` requires code derived from a `wsdl` file published by the `server`. 
+Discover how to run the `server` and the `client`.
+Note that the `server` requires code derived from `translator.xsd`,
+and the `client` requires code derived from a `wsdl` file published by the `server`.
 
 Next you must ensure that the client show something similar to:
 ```
@@ -27,4 +27,6 @@ Some ideas for obtaining a :gift: if you are the first that:
 User name | NIA | CI | Solution |Score
 ----------|-----|----------|-----|----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml) | [instructions](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/wiki)
-Óscar Pueyo | 780378 | [![Build Status](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml) | [solution](https://github.com/iksopo/lab2-rpc-over-http/blob/work/description.md)
+[Diego Marco](https://github.com/dmarcob/lab2-rpc-over-http/tree/work) | 755232 | [![Build Status](https://github.com/dmarcob/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/dmarcob/lab2-rpc-over-http/actions/workflows/ci.yml) | [my solution](https://github.com/dmarcob/lab2-rpc-over-http/blob/work/SOLUTION.md)
+[Alejandro Magallón](https://github.com/alecron/lab2-rpc-over-http/tree/work) | 779354 | [![Build Status](https://github.com/alecron/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/alecron/lab2-rpc-over-http/actions/workflows/ci.yml) | [Solution](https://github.com/alecron/lab2-rpc-over-http/blob/work/solucion.md)
+[Óscar Pueyo](https://github.com/iksopo/lab2-rpc-over-http/tree/work) | 780378 | [![Build Status](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/iksopo/lab2-rpc-over-http/actions/workflows/ci.yml) | [solution](https://github.com/iksopo/lab2-rpc-over-http/blob/work/description.md)
