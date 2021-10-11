@@ -4,9 +4,9 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc
 
 ## Primary goal
 
-Discover how to run the `server` and the `client`.
-Note that the `server` requires code derived from `translator.xsd`,
-and the `client` requires code derived from a `wsdl` file published by the `server`.
+Discover how to run the `server` and the `client`. 
+Note that the `server` requires code derived from `translator.xsd`, 
+and the `client` requires code derived from a `wsdl` file published by the `server`. 
 
 Next you must ensure that the client show something similar to:
 ```
