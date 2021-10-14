@@ -28,4 +28,4 @@ User name | NIA | CI | Solution |Score
 ----------|-----|----------|-----|----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/actions/workflows/ci.yml) | [instructions](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/wiki)
 your name | your nia | your CI status | your solution
-[Íñigo Aréjula](https://github.com/arejula27/lab2-rpc-over-http)|785370|[![Build Status](https://github.com/arejula27/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)]|[Solution](https://github.com/arejula27/lab2-rpc-over-http/blob/work/Description.md)
+[Íñigo Aréjula](https://github.com/arejula27/lab2-rpc-over-http)|785370|![Build Status](https://github.com/arejula27/lab2-rpc-over-http/actions/workflows/ci.yml/badge.svg)|[Solution](https://github.com/arejula27/lab2-rpc-over-http/blob/work/Description.md)
